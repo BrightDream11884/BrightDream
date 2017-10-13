@@ -10,7 +10,7 @@ public:
 	double area;
 };
 void printArea(Shape arg)
-{cout<<"the area of the "<<arg.name<<" is: "<<arg.area<<endl;}
+{cout<<"the area of the "<<arg.name<<" is: "<<arg.area<<endl;};
 
 
 
